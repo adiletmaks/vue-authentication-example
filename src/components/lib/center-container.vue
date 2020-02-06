@@ -1,4 +1,4 @@
-/** * Created by vouill on 11/14/17. */
+
 
 <template>
   <div class="center-container">

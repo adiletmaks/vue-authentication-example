@@ -1,3 +1,5 @@
+import * as axios from "axios";
+
 const mocks = {
   auth: { POST: { token: "This-is-a-mocked-token" } },
   "user/me": { GET: { name: "doggo", title: "sir" } }
